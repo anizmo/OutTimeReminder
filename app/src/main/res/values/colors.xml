@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6554c0</color>
+    <color name="colorPrimaryDark">#6554c0</color>
+    <color name="colorAccent">#D81B60</color>
+
+        <color name="multiTrackGradientStart0">#327fff</color>
+        <color name="multiTrackGradientEnd0">#b486ff</color>
+
+        <color name="multiTrackGradientStart1">#b486ff</color>
+        <color name="multiTrackGradientEnd1">#ff5472</color>
+
+        <color name="multiTrackGradientStart2">#ff5472</color>
+        <color name="multiTrackGradientEnd2">#fbc298</color>
+
+        <color name="multiTrackGradientStart3">#fbc298</color>
+        <color name="multiTrackGradientEnd3">#ff8a43</color>
+
+        <color name="multiTrackGradientStart4">#ffb750</color>
+        <color name="multiTrackGradientEnd4">#ffea7f</color>
+
+        <color name="multiTrackGradientStart5">#ffdb58</color>
+        <color name="multiTrackGradientEnd5">#24c1a9</color>
+
+        <color name="multiTrackGradientStart6">#55c79b</color>
+        <color name="multiTrackGradientEnd6">#33e5ed</color>
+
+        <color name="multiTrackGradientStart7">#36e2e7</color>
+        <color name="multiTrackGradientEnd7">#5095ff</color>
+
+        <color name="multiTrackGradientStart8">#8abbff</color>
+        <color name="multiTrackGradientEnd8">#2f47b4</color>
+
+        <color name="multiTrackGradientStart9">#92a6f5</color>
+        <color name="multiTrackGradientEnd9">#50446c</color>
+
+        <color name="multiTrackEmptyStateGradientStart">#c6edff</color>
+        <color name="multiTrackEmptyStateGradientEnd">#a3c6ff</color>
+
+        <color name="multiTrackGradientStartDefault">#0B092C</color>
+        <color name="multiTrackGradientEndDefault">#2391B3</color>
+
+        <color name="grape">#512971</color>
+
+
+        <color name="webViewBackgroundColor">#512971</color>
+
+        <color name="forgot_password_text_color">#ffffff</color>
+
+        <color name="authorization_dialog_bg">@color/grape</color>
+
+    <!-- Secondary Colors -->
+    <color name="secondary_btns_notifications">#b2c633</color>
+    <color name="secondary_floating_btns1">#9534ab</color>
+    <color name="secondary_floating_btns2">#c5da50</color>
+    <color name="secondary_color_1">#5dbd57</color>
+    <color name="secondary_color_2">#d94c4c</color>
+    <color name="secondary_links">#3366bb
+    </color><!--<color name="secondary_links">#15ade1</color>-->
+    <color name="secondary_fields">#672082</color>
+    <!-- End of Secondary Colors -->
+
+    <!-- Error Colors -->
+    <color name="error_validation">#cc1313</color>
+    <color name="error_toast">#626262</color>
+    <color name="error_msg">#faeea7</color>
+    <!-- End of Error Colors -->
+
+    <!-- Social Colors -->
+    <color name="social_fb">#d2e4f7</color>
+    <color name="social_twitter">#d6eefe</color>
+    <color name="social_youtube">#fef7de</color>
+    <!-- End of Social Colors -->
+
+    <!-- Text Colors -->
+    <color name="text_heading">#615c5c</color>
+    <color name="text_subheading">#484848</color>
+    <color name="text_lighttext">#858585</color>
+    <color name="text_timestamp_shared">#8b5697</color>
+    <color name="text_table_heading">#672b75</color>
+    <!-- End of Text Colors -->
+
+    <color name="white">#ffffff</color>
+    <color name="silver_three">#d4dadc</color>
+    <color name="pale_grey_three">#f9fbfb</color>
+
+    <!-- Card Overflow menu colors -->
+    <color name="cardOverflowTextColor">#000000</color>
+
+    <color name="sentimentTextColor">#FFFFFF</color>
+    <!--color name="sentimentPositiveColor">#008000</color>
+    <color name="sentimentNegativeColor">#FF0000</color-->
+    <color name="sentimentPositiveColor">#178111</color>
+    <color name="sentimentNegativeColor">#D45457</color>
+    <color name="sentimentNeutralColor">#595959</color>
+
+    <color name="translucentSentimentPositiveColor">#9947A64F</color>
+    <color name="translucentSentimentNegativeColor">#99D45457</color>
+    <color name="translucentSentimentNeutralColor">#99595959</color>
+
+    <color name="card_table_normal_label_text_color">#888888</color>
+    <color name="status_panel_bg_color">#faeea7</color>
+
+    <color name="autocomplete_background">#e0e57c</color>
+
+    <color name="separator_color">#aaaaaa</color>
+    <color name="default_chart_color">#e5e5e5
+    </color><!-- Also hardcoded in AbstractRenderingStrategy.colorify, StackedBarChartRenderingStrategy, StackedColumnChartRenderingStrategy-->
+
+    <color name="section_green_text_background">#D4FAD7</color>
+    <color name="section_green_text">#47A960</color>
+    <color name="section_text_separator">#EFEFEF</color>
+    <color name="section_title_color">#003868</color>
+
+    <color name="showmore_header_title_color">#504f4f</color>
+    <color name="showmore_header_category_color">@color/card_title</color>
+
+    <color name="additional_analysis_background">@color/white</color>
+    <color name="card_title">#979797</color>
+
+    <color name="additional_analysis_title_separator">#d1d0d0</color>
+
+    <!-- Login Screen -->
+    <color name="login_env_title_color">@color/charcoalGrey</color>
+    <color name="login_button_background">#DEDEDE</color>
+    <!-- <color name="login_button_text_color">@color/white</color>-->
+
+    <!-- ask panel -->
+    <color name="ask_grey">#6F6666</color>
+    <color name="ask_panel_border">@color/ask_grey</color>
+    <color name="ask_search_background">#E8E8E8</color>
+    <color name="ask_panel_background">#FBFBFB</color>
+    <color name="done_button_color">#6da5e4</color>
+    <color name="ask_bar_translucent_color">#67595959</color>
+    <color name="alert_icon_background">#E8E8E8</color>
+    <color name="track_date_text_color">@color/ask_grey</color>
+    <color name="zero_state_message_color">@color/bluishGrey</color>
+    <color name="ask_properties_color">#7B86F4</color>
+    <color name="ask_qi_panel_background">#F0F5FB</color>
+    <color name="modification_popup_measure_color">@color/ask_grey</color>
+    <color name="interpretation_measure_color">@color/ask_grey</color>
+    <color name="feedback_option_color">@color/ask_grey</color>
+    <color name="period_assume_color">#FDA429</color>
+    <color name="pill_activity_background">#E8E8E8</color>
+    <color name="recommended_insight_text_color">#014574</color>//#004D40
+    <color name="profile_background_top_panel">#F2F2F2</color>
+    <color name="profile_textview_color">@color/ask_grey</color>
+
+    <color name="change_password_guideline_backgroung">#F7F7F7</color>
+    <color name="change_password_message">#ADADAD</color>
+
+    <color name="edit_text_hint_color">@color/slate_grey</color>
+    <color name="login_error_text_background">#ffa801</color>
+    <color name="login_error_text_color">#ffa801</color>
+    <color name="forget_password_text_color">@color/bluishGrey</color>
+    <color name="login_edit_text_border_not_focus">#dfe6e9</color>
+    <color name="login_edit_text_border_focus">@color/bluishGrey</color>
+    <color name="login_edit_text_hint_color">@color/edit_text_hint_color</color>
+    <color name="login_edit_text_color">@color/charcoal_grey</color>
+
+    <color name="bottom_bar_deselect_color">#b8cbd4</color>
+    <color name="bottom_bar_text_deselect_color">@color/slate_grey</color>
+    <color name="ask_edit_text_border_color">#dfe6e9</color>
+    <color name="ask_edit_text_color">#474c55</color>
+    <color name="ask_app_bar_background_color">#ef1100</color>
+    <color name="ask_interpretation_background_color">#19000000</color>
+    <color name="answer_card_title_color">#2d3436</color>
+    <color name="answer_card_transaction_date_color">#b2bec3</color>
+    <color name="pill_color">#3c40c6</color>
+    <color name="answer_card_separator_color">#f0f0f0</color>
+
+    <color name="show_more_fragment_background_color">@color/pale_grey</color>
+    <color name="add_to_track_button_start_color">#05c46b</color>
+    <color name="add_to_track_button_end_color">#03af5f</color>
+    <color name="add_to_track_button_color">#4cb906</color>
+    <color name="show_more_upvote_downvote_border_color">#b3c0ce</color>
+    <color name="show_more_feedback_question_color">#2d3436</color>
+    <color name="selected_pills_fill_color">#3c40c6</color>
+    <color name="selected_pill_text_color">#ceffffff</color>
+    <color name="pill_fill_item_color">@color/light_royal_blue_two</color>
+    <color name="started_pill_color">@color/charcoalGrey</color>
+    <color name="shimmer_background">#dddddd</color>
+    <color name="pills_breadcrumbs_item_color">#eef2f3</color>
+
+    <color name="bluishGrey">#808e9b</color>
+    <color name="charcoalGrey">#2d3436</color>
+
+    <color name="periwinkleBlue">#a29bfe</color>
+    <color name="purpley">#6c5ce7</color>
+    <color name="gunmetal">#474c55</color>
+
+    <color name="scrollable_title_text_color">@color/gunmetal</color>
+    <color name="diagnostic_empty_state_text_color">@color/gunmetal</color>
+    <color name="notification_text_color">@color/charcoalGrey</color>
+    <color name="notification_date_color">@color/bluishGrey</color>
+    <color name="notification_item_color">#ffffff</color>
+
+    <color name="trackable_status_background_color">#F1FAEB</color>
+    <color name="trackable_status_border_color">#4cb906</color>
+    <color name="trackable_status_text_color">#05c46b</color>
+    <color name="env_edittext_suffix_color">@color/slate_grey</color>
+
+    <color name="logout_text_color">@color/charcoalGrey</color>
+    <color name="profile_user_name_text_color">@color/charcoalGrey</color>
+    <color name="profile_email_text_color">@color/charcoalGrey</color>
+    <color name="error_state_message_title_color">@color/charcoalGrey</color>
+    <color name="error_state_message_color">#636e72</color>
+
+    <color name="add_to_track_notification_show_more_text_color">#03af5f</color>
+    <color name="add_to_track_notification_show_more_background">#ebfbf4</color>
+    <color name="add_to_track_notification_show_more_border">#05c46b</color>
+
+    <color name="slate_grey">#636e72</color>
+    <color name="charcoal_grey">#2d3436</color>
+    <color name="silver">#b2bec3</color>
+    <color name="bluish_grey">#808e9b</color>
+    <color name="light_royal_blue">#314ffe</color>
+    <color name="dignostic_unread_background_color">#f9f9f9</color>
+    <color name="bottom_navigation_bar_color">#fafafa</color>
+    <color name="pale_grey">#eef2f4</color>
+    <color name="light_royal_blue_two">#304ffe</color>
+
+    <color name="opacity_10">#1A000000</color>
+    <color name="opacity_30">#4D000000</color>
+
+    <color name="red">#f17105</color>
+    <color name="red_opacity">#FEF4EB</color>
+    <color name="frog_green">#4cb906</color>
+    <color name="silver_two">#dadce0</color>
+    <color name="pill_title_bar_shape_background">@color/light_royal_blue_two</color>
+
+    <color name="shadow_color">#194a5b6d</color>
+    <color name="login_button_disabled_color">#2B46E4</color>
+    <color name="login_button_enable_color">#2137B1</color>
+
+    <color name="overscroll_color">#EEF2F4</color>
+    <color name="add_to_trackboard_disabled_color">#DFE6E9</color>
+    <color name="remove_from_trackboard_text_disabled_color">#B2BEc3</color>
+
+    <color name="voice_background_start_color">#243cb5</color>
+    <color name="voice_background_end_color">#1b2040</color>
+    <color name="voice_ripple_start_color">#05ffff</color>
+    <color name="voice_ripple_end_color">#3852e8</color>
+    <color name="pause_button_start_color">#2755f4</color>
+    <color name="pause_button_end_color">#233ff5</color>
+    <color name="voice_background_color">#030408</color>
+    <color name="peachy_pink">#ff8282</color>
+    <color name="voice_wait_animation_color">#0adef6</color>
+    <color name="stop_popup_text_color">#1f2d74</color>
+    <color name="stop_popup_background_color">#A1ABE3</color>
+    <color name="voice_tooltip_background_color">#0adef6</color>
+    <color name="voice_tooltip_text_color">#1c2248</color>
+    <color name="voice_tap_to_edit_background">#253699</color>
+
+    <color name="answer_detail_trackboard_status_background">#DBF1CD</color>
+    <color name="pale_grey_two">#dfe6e9</color>
+
+    <color name="trackable_status_background_color_for_notification">@color/frog_green</color>
+    <color name="untrackable_status_background_color_for_notification">#ffa801</color>
+
+    <color name="onboarding_add_to_trackboard_background_color">#304ffe</color>
+
+    <color name="bottom_bar_select_color">#464e55</color>
+    <color name="yes_delete_dialog_button_color">#d73536</color>
+    <color name="remote_trackboard_text_color">#d63031</color>
+
+    <color name="trackboard_name_error_background">#fcefef</color>
+
+    <color name="untrack_remove_button_color">#d63031</color>
+    <color name="untrack_remove_button_disable_state_color">#dddddd</color>
+    <color name="change_password_disabled_color">@color/pale_grey_two</color>
+    <color name="red_error">#d63031</color>
+    <color name="snackbar_action_text_color">#ffa801</color>
+    <color name="diagnostic_type_unread_color">#1cb5e0</color>
+    <color name="diagnostic_type_read_color">@color/silver</color>
+
+    <color name="diagnsotics_background_gradient_start">#0e5d96</color>
+    <color name="diagnsotics_background_gradient_center">#1cb5e0</color>
+    <color name="diagnsotics_background_gradient_end">#000046</color>
+    <color name="diagnostics_title_text_background">#309fca</color>
+    <color name="dusty_red">#d63031</color>
+    <color name="opacity_white_20">#33ffffff</color>
+    <color name="trackboard_subtitle_background">#40d8d8d8</color>
+
+    <color name="sentiment_green">#2E7D32</color>
+    <color name="sentiment_red">#A71325</color>
+    <color name="additional_info_background">#ECF0F2</color>
+    <color name="grid_number_default_color">#040b16</color>
+    <color name="very_light_blue">#e5ecf5</color>
+    <color name="slate">#4e5e71</color>
+    <color name="pale_grey_four">#f8f9fa</color>
+    <color name="partial_text_color">#d27d00</color>
+    <color name="dark_indigo">#0c2340</color>
+
+    <color name="growth_alpha_color" >#ccffffff</color>
+
+    <color name="diagnostic_title_bg_color">#52000000</color>
+    <color name="slate_two">#425060</color>
+    <color name="very_light_blue_two">#e8ecf1</color>
+    <color name="slate_26">#804e5e71</color>
+    <color name="very_light_pink">#fceeed</color>
+    <color name="unresolved_token_highlight_color">#F3DBB4</color>
+    <color name="unresolved_token_underline_color">#FDA729</color>
+    <color name="chocolate">#471404</color>
+    <color name="off_white">#fffbea</color>
+    <color name="beige_47">#79ffd495</color>
+    <color name="onboarding_group_image_background">#f8f8f8</color>
+    <color name="more_info_show_more_diagnostics">#99ffffff</color>
+    <color name="ques_onboarding_arrow_color">#00b8f7</color>
+
+    <color name="lock_trackboard_help_bg">#129dce</color>
+    <color name="more_info_tooltip_bg">#020e1a</color>
+    <color name="grey_background">#dfe1e5</color>
+
+</resources>
